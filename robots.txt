@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kiro-id1m.vercel.app/sitemap.xml
